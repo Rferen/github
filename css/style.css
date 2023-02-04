@@ -19,3 +19,25 @@ p{
     color:blue;
     text-align: justify;
 }
+button{
+    margin: 20px 45% 20px 45%;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height: 40px;
+    box-shadow: 5px 5px 8px black;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+}
+.message{
+    text-align: center;
+    margin: 20px 0;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+.red{
+    background-color: red;
+    color: yellow
+}
