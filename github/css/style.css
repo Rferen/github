@@ -1,0 +1,12 @@
+h1{
+    font-size: large;
+    background-color: darkgoldenrod;
+    color: aqua;
+    padding: 100px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-color: pink;
+}
+p{
+    
+}
