@@ -17,6 +17,11 @@ h1{
     border-color: palevioletred;
 
 }
+div{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(245, 222, 179, .7);
+}
 p{
     font-size: 30px;
     margin: 5px 10px;
