@@ -1,12 +1,21 @@
+body{
+    background-color: wheat;
+}
 h1{
-    font-size: large;
-    background-color: darkgoldenrod;
-    color: aqua;
-    padding: 100px;
+    font-size: 40px;
+    background-color: rgb(71, 219, 219);
+    box-shadow: 3px 3px 6px black;
+    padding: 5px;
+    color: red;
+    margin: 10px 0 40px 0;
+    text-align: center;
     box-sizing: border-box;
     border-radius: 10px;
     border-color: pink;
+
 }
 p{
-    
+    margin: 5px 10px;
+    color:blue;
+    text-align: justify;
 }
