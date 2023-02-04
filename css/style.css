@@ -13,24 +13,35 @@ h1{
     margin: 10px 0 40px 0;
     text-align: center;
     box-sizing: border-box;
-    border-radius: 10px;
-    border-color: pink;
+    border-radius: 12px;
+    border-color: palevioletred;
 
 }
 p{
     font-size: 30px;
     margin: 5px 10px;
-    color:black;
-    text-align: center;
-    
+    color:blue;
+    text-align: justify;
 }
-.content{
-    width: 80%;
-    background-color: rgba(255, 255, 255, 0.807);
+button{
+    margin: 20px 45% 20px 45%;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height: 40px;
+    box-shadow: 5px 5px 8px black;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+}
+.message{
     text-align: center;
+    margin: 20px 0;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
 
 }
-div{
-    text-align: center;
-    font-size: large;
+.red{
+    background-color: red;
+    color: yellow
 }
